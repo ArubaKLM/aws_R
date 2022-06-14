@@ -1,0 +1,13 @@
+name: loclaelection2022
+title: loclaelection2022
+username:
+account: 20korando
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6060571
+bundleId: 5786873
+url: https://20korando.shinyapps.io/loclaelection2022/
+when: 1649688827.0062
+lastSyncTime: 1649688827.0062
+asMultiple: FALSE
+asStatic: FALSE

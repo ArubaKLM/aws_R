@@ -1,0 +1,14 @@
+name: mappingproject
+title: mappingproject
+username:
+account: 20korando
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6060563
+bundleId: 5784981
+url: https://20korando.shinyapps.io/mappingproject/
+when: 1649641586.47398
+lastSyncTime: 1649641586.47398
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dm3.RDS|dong_map.RDS
